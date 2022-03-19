@@ -132,8 +132,3 @@ STATICFILES_DIRS = [
 ]
 
 STATIC_ROOT = os.path.join(BASE_DIR, "staticfiles")
-
-ALLOWED_HOSTS = [
-    'localhost',
-     'smart-goals-web.herokuapp.com',
-]
